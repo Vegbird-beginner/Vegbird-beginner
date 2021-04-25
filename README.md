@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vegbird-beginner
+- 👋 Hi, I’m @Vegbird-beginner, named yulong jiang
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on pythoner
